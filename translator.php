@@ -1,4 +1,5 @@
 <?php
+
 // Function to sort translations alphabetically
 function sortTranslations($translations) {
     $sortedTranslations = $translations;
